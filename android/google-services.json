@@ -1,0 +1,81 @@
+{
+  "project_info": {
+    "project_number": "928471039254",
+    "firebase_url": "https://exchat-1523546282358.firebaseio.com",
+    "project_id": "exchat-1523546282358",
+    "storage_bucket": "exchat-1523546282358.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928471039254:android:86be216445521e95",
+        "android_client_info": {
+          "package_name": "com.exapp.exapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928471039254-btbmbnkfevhr6ik29rjtcsh97vi972ff.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "928471039254-btbmbnkfevhr6ik29rjtcsh97vi972ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFp1iQrzvE8we20ehfEO7Ox8rUWq-PyaA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928471039254:android:abac31309d757d12",
+        "android_client_info": {
+          "package_name": "come.exchat.exchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928471039254-btbmbnkfevhr6ik29rjtcsh97vi972ff.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "928471039254-btbmbnkfevhr6ik29rjtcsh97vi972ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFp1iQrzvE8we20ehfEO7Ox8rUWq-PyaA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

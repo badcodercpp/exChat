@@ -16,7 +16,7 @@
     "mqtt": "^2.18.2",
     "npm": "^6.3.0",
     "paho-mqtt": "^1.0.4",
-    "pubnub": "^4.21.0",
+    "pubnub": "^7.4.0",
     "pubnub-react": "^1.2.0",
     "react": "16.3.1",
     "react-native": "^0.56.0",
